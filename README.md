@@ -1,2 +1,3 @@
 # hello-world
-Guide of GitHub
+Hi people!!
+I'm Gabriel, locking forward to learn a lot!
